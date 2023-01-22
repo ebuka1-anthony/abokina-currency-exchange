@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+  }
+  /*.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+.clear {
+   clear: both; 
+}*/
+
+.and,.band,.bless,.stress{
+           display: flex;
+           justify-content: center;
+           font-family: 'Gill Sans';
+
+}
+
+.bless,.stress{
+           font-size: larger;
+           font-weight: 900;
+           color: black;
+}
+
+.bless{
+     padding-bottom: 30px;
+}
+
+.band {
+      font-family: 'Gill Sans';
+      font-weight: 300;
+}
+
+#dolls,#nairah{
+           margin-left: 20px;
+}
+
+
+.stress{
+    padding-top: 200px;
+}
+
+
+.and{
+    font-family: 'Gill Sans';
+    color: teal;
+    font-weight: 600;
+    padding-bottom: 50px;
+}
+
+body{
+     background-image: url('payment.png');
+}
+
+#ell{
+     margin-left: 610px;
+     background-color: wheat;
+     color: white;
+     font-family: 'Gill Sans';
+     
+}
+
+#pell{
+      margin-left: 600px;
+      color:coral;
+      font-weight: 900;
+      padding-top: 100px;
+      font-family: 'Gill Sans';
+      
+}
+
+.hid{
+      font-family: 'Gill Sans';
+      color: black;
+}
+
+a{
+    color: black;
+}
+
+#mee{
+    margin-left: 700px;
+    font-weight: 700;
+    font-family: 'Gill Sans';
+}
+
